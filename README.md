@@ -4,6 +4,8 @@ Reto Master 1 Summer Cloud Grupo II Acordeon Estudio
 ![Logo B Proyecto](/imagenes/top_cloud2.png)
 ![Logo C Proyecto](/imagenes/nube_surfers.gif)
 
+Acordeón de estudio de los cuatro pilares para entender Azure Cloud 
+
 ## Computo
 
 ## Redes
