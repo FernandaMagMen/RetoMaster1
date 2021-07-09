@@ -8,7 +8,7 @@ Reto Master 1 Summer Cloud Grupo II Acordeon Estudio
   
 Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
-  **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) | [Almacenamiento](#Almacenamiento) | [Bases de Datos](#BBDD)
+  **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) | [Almacenamiento](#Almacenamiento) | [Bases de Datos](#Bases)
 
 ## Cómputo
 ## Redes
@@ -35,6 +35,5 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 ## Almacenamiento 
 
 ## Bases de Datos 
-## BBDD
 
   **[¿Cuáles son los tipos de bases de datos en Azure?](https://www.youtube.com/watch?v=RrFIY4zDXZY)**
