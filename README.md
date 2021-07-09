@@ -11,52 +11,8 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
   **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) 
 
 ## Cómputo
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-aa
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
 ## Redes
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-
-
+---
 ## Almacenamiento 
 
 ## Base de Datos
