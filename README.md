@@ -15,7 +15,7 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 ### [Internet](https://dle.rae.es/internet)
 Definición: Red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación.
 Definición personal: Es una red de centro de datos (Servidores grandotes) en la cual todo el mundo puede acceder a su información almacenada (Página Web, Videos, Música, etc.)
-[<img src="https://image.flaticon.com/icons/png/512/185/185983.png" width="40px">]Ver el video(https://youtube.com)
+<a href="https://youtube.com"><img src="https://image.flaticon.com/icons/png/512/185/185983.png" width="40px">Ver el video</a>
 ## Almacenamiento 
 
 ## Base de Datos
