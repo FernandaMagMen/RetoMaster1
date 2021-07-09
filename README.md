@@ -137,6 +137,14 @@ SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también 
 
 <b>☁ SQL Server en Azure Virtual Machines:</b> SQL-Server en Virtual Machines. Se usa para la migración de servicios, tambien hospeda en servicios más empresariales para la nube.<br />
 
+<b>☁ Azure Synapse Analytics:</b>Se maneja en escala, con una excelente seguridad, para que se pueda administrar gran cantidad de datos.<br />
+
+<b>☁ Azure Database Migration Services:</b>En este el codigo original se mantiene, para una migración a la nube, es un servicio que ofrece Azure.<br />
+
+<b>☁ Azure Cache for Redis:</b>En este da la posibilidad de que se administren en donde se almacena al caché. Sobre datos y los que se llegan a usar con frecuencia, para evitar una alteración de datos al igual que las aplicaciones.<br />
+
+<b>☁ Azure Database for MariaDB:</b>En este se relaciona con MariaDB que es un sistema de gestión para bases de datos, se relaciona con MySQL con GPL. Para una administración que puede ser escalable, tiene una excelente disponibilidad y muy seguro.<br />
+
 **¿Cuáles son los tipos de bases de datos en Azure?**
 
 <a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
