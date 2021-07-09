@@ -8,7 +8,7 @@ Reto Master 1 Summer Cloud Grupo II Acordeon Estudio
   
 Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
-  **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) | [Almacenamiento](#Almacenamiento) | [Bases de Datos](#Bases_de_Datos)
+  **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) | [Almacenamiento](#Almacenamiento) | [Bases de Datos](#bases-de-datos)
 
 ## Cómputo
 ## Redes
