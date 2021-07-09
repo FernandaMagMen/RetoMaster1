@@ -36,4 +36,6 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
 ## Bases de Datos 
 
+<a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
+
   **[¿Cuáles son los tipos de bases de datos en Azure?](https://www.youtube.com/watch?v=RrFIY4zDXZY)**
