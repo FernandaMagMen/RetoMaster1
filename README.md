@@ -53,7 +53,7 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
 <b>Definición personal:</b> Es la agrupacion de archivos o blogs
 
-👉 Azure proporciona diferentes tipos de servicios donde comparten las siguientes <b>caracteristicas</b>:
+👉<b>AZURE</b> proporciona diferentes tipos de servicios donde comparten las siguientes <b>caracteristicas</b>:
 
 <b>- DURABILIDAD</b> y alta disponibilidad
 
