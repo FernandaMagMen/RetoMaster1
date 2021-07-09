@@ -127,6 +127,14 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
 <b>☁ Azure Cosmos DB:</b> Se distribuye en todo el mundo, aceptan las opciones de NoSQL (Se usa para modelos de datos específicos. Este permite que se distribuyan enormes cantidades de información de todos los tipos).<br />
 
+<b>☁ Azure SQL Database:</b> Tiene una administración automática, tiene que ser muy segura y también tiene una inteligencia para tomar decisiones.
+SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también calcula información donde se relacionen bases de datos).<br />
+
+<b>☁ Azure Database for MySQL:</b> MySQL ayuda a una administración de bases de datos, se pueden relacionar, es una aplicación que puede gestionar desde archivos en las bases de datos. Es muy segura y tiene una buena disponibilidad.<br />
+
+<b>☁ Azure Database for MySQL:</b> Tiene una administración automática, tiene que ser muy segura y también tiene una inteligencia para tomar decisiones.
+SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también calcula información donde se relacionen bases de datos).<br />
+
 **¿Cuáles son los tipos de bases de datos en Azure?**
 
 <a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
