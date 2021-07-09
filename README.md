@@ -11,6 +11,40 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
   **Dar clic para ir a la seccióin:** [Cómputo](#Cómputo) | [Redes](#Redes) | [Almacenamiento](#Almacenamiento) | [Bases de Datos](#bases-de-datos)
 
 ## Cómputo
+### ☁ [Cómputo en la nube](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-fundamentals/what-is-cloud-computing) <br/>
+<b>Definición:</b> Es la entrega de servicios de cómputo a través de Internet. <br/><br/>
+<b>Definición personal:</b> Es la obtención o renta de servicios a través de internet como pueden ser: servidores, almacenamiento, bases de datos, redes, software. <br/>
+
+![image](https://user-images.githubusercontent.com/87036835/125118916-fd66b080-e0b5-11eb-92c5-03ff81732b54.png)
+
+### ☁ [Máquinas virtuales (VM)](https://azure.microsoft.com/es-mx/overview/what-is-a-virtual-machine/) <br/>
+<b>Definición:</b> Una máquina virtual (término que a menudo se abrevia como VM) no es diferente a cualquier otro equipo físico, como un portátil, un smartphone o un servidor. Mientras los componentes de su computadora (denominados hardware) son físicos y tangibles, las máquinas virtuales suelen considerarse equipos virtuales o equipos definidos por software dentro de servidores físicos, donde solo existen como código. <br/><br/>
+<b>Definición personal:</b> Es una PC virtual que se comporta igual que un equipo real, con cantidades dedicadas de CPU, memoria RAM y almacenamiento que se toman prestadas de un equipo físico como puede ser nuestra misma computadora o un servidor. <br/>
+
+![image](https://user-images.githubusercontent.com/87036835/125118995-166f6180-e0b6-11eb-93c5-5075e5cb9546.png)
+
+### ☁ [Aplicación (App)](https://www.informaticamilenium.com.mx/es/temas/que-es-una-app.html) <br/>
+<b>Definición:</b> Una app o aplicación es un programa de software que está diseñado para realizar una función determinada directamente para el usuario. El término app originalmente se refiere a cualquier aplicación móvil, web o de escritorio. <br/><br/>
+<b>Definición personal:</b> Es una herramienta de software que se puede programar en diferentes lenguajes de programación, con el fin de satisfacer las necesidades del usuario final. <br/>
+
+![image](https://user-images.githubusercontent.com/87036835/125119076-2dae4f00-e0b6-11eb-87c1-f9abb05628c3.png)
+
+### ☁ [Servidores](https://www.ionos.mx/digitalguide/servidores/know-how/que-es-un-servidor-un-concepto-dos-definiciones/) <br/>
+<b>Definición:</b> Es una máquina física integrada en una red informática en la que, además del sistema operativo, funcionan uno o varios servidores basados en software que provee servicios a otros equipos cliente y al que pueden acceder múltiples usuarios cuando lo necesiten. <br/><br/>
+<b>Definición personal:</b> Es una computadora con mejor potencia de procesamiento y almacenamiento, que pone a disposición recursos o servicios a través de una red, para atender y responder las peticiones de los clientes. <br/>
+
+![image](https://user-images.githubusercontent.com/87036835/125119093-34d55d00-e0b6-11eb-9c2a-3c427fc8e0ab.png)
+
+### ☁ [Kubernetes](https://azure.microsoft.com/es-mx/topic/what-is-kubernetes/) <br/>
+<b>Definición:</b> Las aplicaciones modernas se basan cada vez en el uso de contenedores, que son microservicios empaquetados con sus dependencias y configuraciones. Kubernetes es un software de código abierto para implementar y administrar esos contenedores a gran escala, y también es la palabra griega para timonel de un buque o piloto. Cree, entregue y escale aplicaciones en contenedores con más rapidez usando Kubernetes, que a veces se denomina “k8s”. <br/><br/>
+<b>Definición personal:</b> Es un software de código libre que nos sirve para automatizar las operaciones, administrar con facilidad y eficiencia los contenedores de nuestras aplicaciones, evitando que si el número de aplicaciones crece en nuestro sistema no sea complicado gestionarlo. <br/>
+
+![image](https://user-images.githubusercontent.com/87036835/125119118-3acb3e00-e0b6-11eb-9d30-197075d7c102.png)
+
+¿Te gustaría saber más? Te recomendamos ver el siguiente contenido
+
+<a href="https://www.youtube.com/watch?v=jQsjFBckkDM&ab_channel=OpenWebinars"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
+
 ## Redes
 ### [Internet](https://dle.rae.es/internet)
 <b>Definición:</b> Red informática mundial, descentralizada, formada por la conexión directa entre computadoras mediante un protocolo especial de comunicación.<br />
