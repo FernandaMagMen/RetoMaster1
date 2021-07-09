@@ -135,6 +135,8 @@ SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también 
 <b>☁ Azure Database for MySQL:</b> Tiene una administración automática, tiene que ser muy segura y también tiene una inteligencia para tomar decisiones.
 SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también calcula información donde se relacionen bases de datos).<br />
 
+<b>☁ SQL Server en Azure Virtual Machines:</b> SQL-Server en Virtual Machines. Se usa para la migración de servicios, tambien hospeda en servicios más empresariales para la nube.<br />
+
 **¿Cuáles son los tipos de bases de datos en Azure?**
 
 <a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
