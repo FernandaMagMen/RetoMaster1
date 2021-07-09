@@ -149,4 +149,6 @@ SQL ( Es un lenguaje de consulta estructurada, se usa para actualizar, también 
 
 <a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
 
-  
+**Bases de Datos y Servicios de Almacenamiento en Azure**
+
+<a href="https://www.youtube.com/watch?v=ncVvQ2x5Ab8"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
