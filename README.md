@@ -41,7 +41,7 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 
 <b>Definición personal:</b> Brinda un sitio para guardar informacion.<br />
 
-### [🎞️BLOB (Binary large object) ](https://www.ticportal.es/glosario-tic/blob-binario)
+### [🎞️BLOB (Binary Large Object) ](https://www.ticportal.es/glosario-tic/blob-binario)
 
 <b>Definición:</b> Es un término que se usa para almacenar un elemento grande en una base de datos que está en código binario
 
