@@ -125,6 +125,8 @@ Acordeón de estudio de los cuatro pilares para entender Azure Cloud </h1>
 <b>Definición:</b> Azure proporciona varios servicios de base de datos para almacenar una gran variedad de volúmenes y tipos de datos. Y con la conectividad global, los usuarios disponen de estos datos al instante.<br />
 <b>Definición personal:</b> Ofrece guardar un conjunto de información desde usuarios hasta valorización de la bolsa de valores.<br />
 
+<b>☁ Azure Cosmos DB:</b> Se distribuye en todo el mundo, aceptan las opciones de NoSQL (Se usa para modelos de datos específicos. Este permite que se distribuyan enormes cantidades de información de todos los tipos).<br />
+
 **¿Cuáles son los tipos de bases de datos en Azure?**
 
 <a href="https://www.youtube.com/watch?v=RrFIY4zDXZY"><img src="https://media.giphy.com/media/mZu5uabFNJBiTizunM/giphy.gif" width="100px"></a>
